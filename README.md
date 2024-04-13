@@ -32,26 +32,16 @@ Our solution is to develop MusicApp, an Android music application that combines 
     - Import and organize music files from device storage.
     - Automatically fetch metadata and album artwork.
     - Create custom playlists and organize songs by genre, artist, or album.
-  - Streaming and Offline Playback:
+  - Streaming:
     -  Stream music from online sources like Spotify, SoundCloud, or YouTube Music
-    - Support offline playback for downloaded songs and playlists.
-    - Cache frequently played songs for quick access.
-  - Personalized Recommendations:
-    -  Offer personalized recommendations based on listening history and preferences.
-    - Generate curated playlists and radio stations tailored to user tastes.
-    - Integrate with social media platforms for music sharing and discovery.
-
 
 
 **• Operations:**
   - User:
     - Browse and search for songs, albums, and artists.
     - Create and manage playlists.
-    - Discover new music through personalized recommendations.
   - Administrator:
     - Manage user accounts and permissions.
-    - Monitor app usage and analytics.
-    - Resolve user issues and provide support.
 
 
 References:
