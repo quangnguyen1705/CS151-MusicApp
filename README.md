@@ -48,14 +48,17 @@ Our solution is to develop MusicApp, an Android music application that combines 
   - Organize into Playlists or mark as favorite.
   - Other features like shuffle & repeat music easily.
 
-**• Steps to Run**
-  Git clone the repo into a folder. 
-  Download Android Studio 3.0. Found here https://developer.android.com/studio/archive Verison October 25 (2017).
-  Import the App found in the folder you cloned the repo to.
-  Utilizing Android Studio, download the Android Emulator.
-  After building the project, run the program through the emulator.
-  To see music, upload an mp3 file onto the emulator and put it into the Music folder contained within the emulation.
-  ![image](https://github.com/quangnguyen1705/CS151-MusicApp/assets/112739750/1c4b32e5-7fb0-40f9-abc6-55236f7175bd)
+<h2>Steps to Run</h2>
+  <li>Git clone the repo into a folder. </li>
+  <li>Download Android Studio 3.0. Found here https://developer.android.com/studio/archive Verison October 25 (2017).</li>
+  <li>Import the App found in the folder you cloned the repo to.</li>
+  <li>Utilizing Android Studio, download the Android Emulator.</li>
+  <li>After building the project, run the program through the emulator.</li>
+  <li>To see music, upload an mp3 file onto the emulator and put it into the Music folder contained within the emulation.</li>
+
+  <h1>Snapshot of working code</h1>
+
+  <img src = "./image.png" width = 200 height = 400>
 
 
 
