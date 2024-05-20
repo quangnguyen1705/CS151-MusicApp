@@ -42,6 +42,24 @@ Our solution is to develop MusicApp, an Android music application that combines 
     - Create and manage playlists.
   - Administrator:
     - Manage user accounts and permissions.
+   
+**• Solution:**  
+  - Mp3 files contained on the device will be easily organizable.
+  - Organize into Playlists or mark as favorite.
+  - Other features like shuffle & repeat music easily.
+
+**• Steps to Run**
+  Git clone the repo into a folder. 
+  Download Android Studio 3.0. Found here https://developer.android.com/studio/archive Verison October 25 (2017).
+  Import the App found in the folder you cloned the repo to.
+  Utilizing Android Studio, download the Android Emulator.
+  After building the project, run the program through the emulator.
+  To see music, upload an mp3 file onto the emulator and put it into the Music folder contained within the emulation.
+  ![image](https://github.com/quangnguyen1705/CS151-MusicApp/assets/112739750/1c4b32e5-7fb0-40f9-abc6-55236f7175bd)
+
+
+
+  
 
 
 References:
